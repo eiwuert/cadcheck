@@ -1,0 +1,119 @@
+[08-Apr-2014 00:28:16] PHP Notice:  Use of undefined constant THEME - assumed 'THEME' in /home/gaurav/public_html/check/application/config/config.php on line 102
+[08-Apr-2014 00:47:41] PHP Warning:  Unterminated comment starting line 112 in /home/gaurav/public_html/check/index.php on line 112
+[08-Apr-2014 00:47:41] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/gaurav/public_html/check/index.php on line 112
+[08-Apr-2014 14:30:22] PHP Parse error:  syntax error, unexpected ';' in /home/gaurav/public_html/check/application/views/view_index.php on line 67
+[09-Apr-2014 13:15:14] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:17:05] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:19:38] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:19:45] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:20:28] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:20:33] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:22:15] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:23:03] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:23:16] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:23:58] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:24:02] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:26:33] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:26:37] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:26:38] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:42:47] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:44:20] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:44:30] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:46:43] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:47:33] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:47:35] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:49:32] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:51:04] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:51:14] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:51:14] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:51:15] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 13:58:14] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 14:00:10] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 14:00:17] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 14:02:41] PHP Fatal error:  Call to a member function get_countries() on a non-object in /home/gaurav/public_html/check/application/controllers/ajax.php on line 20
+[09-Apr-2014 14:04:56] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 618
+[09-Apr-2014 14:09:16] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 618
+[09-Apr-2014 14:10:15] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 618
+[09-Apr-2014 14:11:19] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 618
+[09-Apr-2014 14:11:24] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 618
+[09-Apr-2014 14:12:13] PHP Fatal error:  Call to a member function get_countries() on a non-object in /home/gaurav/public_html/check/application/controllers/ajax.php on line 20
+[09-Apr-2014 14:14:07] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 620
+[09-Apr-2014 14:24:15] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 620
+[09-Apr-2014 14:24:46] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 14:24:48] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 14:24:51] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 14:24:51] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 14:24:52] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 14:25:25] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 1
+[09-Apr-2014 14:26:23] PHP Fatal error:  Call to a member function get_countries() on a non-object in /home/gaurav/public_html/check/application/controllers/ajax.php on line 20
+[09-Apr-2014 14:27:59] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 620
+[09-Apr-2014 14:28:07] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 620
+[09-Apr-2014 14:31:39] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 620
+[09-Apr-2014 14:31:59] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 620
+[09-Apr-2014 14:32:02] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 620
+[09-Apr-2014 14:33:45] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 619
+[09-Apr-2014 14:45:49] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 619
+[09-Apr-2014 14:48:48] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 619
+[09-Apr-2014 14:48:51] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 619
+[09-Apr-2014 14:50:30] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 619
+[09-Apr-2014 14:50:41] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 619
+[09-Apr-2014 14:51:26] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 619
+[09-Apr-2014 14:51:32] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 619
+[09-Apr-2014 21:12:45] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 619
+[09-Apr-2014 21:14:26] PHP Fatal error:  Call to a member function get_countries() on a non-object in /home/gaurav/public_html/check/application/controllers/ajax.php on line 20
+[09-Apr-2014 21:14:39] PHP Fatal error:  Call to a member function get_countries() on a non-object in /home/gaurav/public_html/check/application/controllers/ajax.php on line 20
+[09-Apr-2014 21:14:43] PHP Fatal error:  Call to a member function get_countries() on a non-object in /home/gaurav/public_html/check/application/controllers/ajax.php on line 20
+[09-Apr-2014 21:14:49] PHP Fatal error:  Call to a member function get_countries() on a non-object in /home/gaurav/public_html/check/application/controllers/ajax.php on line 20
+[09-Apr-2014 21:39:58] PHP Fatal error:  Call to a member function get_countries() on a non-object in /home/gaurav/public_html/check/application/controllers/ajax.php on line 20
+[09-Apr-2014 21:40:51] PHP Fatal error:  Call to a member function get_countries() on a non-object in /home/gaurav/public_html/check/application/controllers/ajax.php on line 20
+[09-Apr-2014 21:41:30] PHP Fatal error:  Call to a member function get_countries() on a non-object in /home/gaurav/public_html/check/application/controllers/ajax.php on line 20
+[09-Apr-2014 21:42:22] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:43:11] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:43:14] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:43:47] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:44:23] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:44:26] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:44:53] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:49:47] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:52:24] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:52:53] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:53:23] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:53:26] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:53:27] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:54:14] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:55:32] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:55:32] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:55:33] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:55:34] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 617
+[09-Apr-2014 21:58:42] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 577
+[09-Apr-2014 22:00:26] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/gaurav/public_html/check/application/controllers/ajax.php on line 614
+[10-Apr-2014 01:35:28] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/ajax.php on line 222
+[10-Apr-2014 02:02:13] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 02:02:53] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 02:03:32] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 02:04:12] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 02:04:54] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 02:05:32] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 02:06:12] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 02:06:52] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 02:07:32] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 02:08:12] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 02:08:53] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 02:09:23] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 02:09:37] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 02:10:32] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/gaurav/public_html/check/application/controllers/ajax.php on line 653
+[10-Apr-2014 16:09:16] PHP Fatal error:  Call to undefined method User_model::deletePayees() in /home/gaurav/public_html/check/application/controllers/ajax.php on line 723
+[12-Apr-2014 04:31:43] PHP Parse error:  syntax error, unexpected T_ELSE in /home/gaurav/public_html/check/application/controllers/ajax.php on line 506
+[12-Apr-2014 04:32:09] PHP Parse error:  syntax error, unexpected T_ELSE in /home/gaurav/public_html/check/application/controllers/ajax.php on line 506
+[12-Apr-2014 04:32:12] PHP Parse error:  syntax error, unexpected T_ELSE in /home/gaurav/public_html/check/application/controllers/ajax.php on line 506
+[12-Apr-2014 04:32:42] PHP Parse error:  syntax error, unexpected T_ELSE in /home/gaurav/public_html/check/application/controllers/ajax.php on line 506
+[12-Apr-2014 04:33:13] PHP Parse error:  syntax error, unexpected T_ELSE in /home/gaurav/public_html/check/application/controllers/ajax.php on line 506
+[12-Apr-2014 07:40:00] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/gaurav/public_html/check/application/controllers/ajax.php on line 606
+[12-Apr-2014 08:19:27] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/admin.php on line 96
+[13-Apr-2014 10:37:27] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gaurav/public_html/check/application/views/admin/view_grouplist.php on line 1
+[13-Apr-2014 10:38:29] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gaurav/public_html/check/application/views/admin/view_grouplist.php on line 1
+[13-Apr-2014 10:40:58] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gaurav/public_html/check/application/views/admin/view_grouplist.php on line 1
+[13-Apr-2014 11:01:38] PHP Parse error:  syntax error, unexpected $end in /home/gaurav/public_html/check/application/controllers/admin.php on line 236
+[20-Apr-2014 05:14:44] PHP Fatal error:  Call to a member function result() on a non-object in /home/gaurav/public_html/check/application/models/tx_model.php on line 183
+[20-Apr-2014 05:15:23] PHP Fatal error:  Call to a member function result() on a non-object in /home/gaurav/public_html/check/application/models/tx_model.php on line 183
+[27-Apr-2014 09:16:35] PHP Parse error:  syntax error, unexpected T_ISSET in /home/gaurav/public_html/check/application/controllers/payment.php on line 132

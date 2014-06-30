@@ -1,0 +1,210 @@
+body {
+    font-family:"lucida sans unicode","lucida grande",sans-serif;letter-spacing: -0.2pt;word-spacing:0pt;line-height:1.5;
+    font-size:67%;
+    color:#000;
+    margin:0;
+    padding:0;
+    background:url(../images/interface/site_background.jpg) top repeat-x #10425d;
+}
+
+/* HEADER TAGS */
+h1 { font-size:14px; color:#194c6f; margin:0 auto; padding:8px 12px 4px 16px;
+     
+}
+article h1 { font-size:16px; color:#194c6f; margin-bottom:12px; padding:2px 12px; border-radius:0; -moz-border-radius:0; -webkit-border-radius:0;
+    background:url('../images/interface/main_nav_bg.png') repeat-x #EFEFEF; border:1px solid #CCC; }
+h2 { font-size:18px; color:#4b4b4b; margin-bottom:12px; padding:4px 24px; background-color:#fff9ec; border:1px solid #e4d8ba; }
+h3 {}
+h4 {}
+
+a { color:#2c92d9; text-decoration:none; }
+a:hover { color:#3ea6ee; }
+
+span.notice { color:red; }
+span.notice a { color:red; }
+
+
+div#body-wrap {
+    position:relative;
+    margin:0 auto;
+    width:800px;
+    padding-top:24px;
+}
+
+
+div.flexigrid td a {
+    padding:4px 6px;
+    font-size:11px;
+    border:1px solid #4b4b4b;
+    border-top:1px solid #CCC;
+    border-left:1px solid #CCC;
+    background-color:#FFF;
+    color:#666;
+}
+div.flexigrid td a:hover {
+    background-color:#f8f8f8;
+    
+}
+
+p {
+    margin-bottom:12px;
+}
+
+div.validation_error {
+    font-size:10px;
+    color:red;
+}
+label.error {
+    font-size:10px;
+    color:red;
+}
+header {
+    position:relative;
+    padding-bottom:24px;
+    height:73px;
+}
+header div#logo {
+    margin-left:12px;
+    padding-top:12px;
+}
+header div#profile {
+    position:absolute;
+    right:24px;
+    bottom:0px;
+    text-align:right;
+}
+header div#profile p {
+    margin:0;
+}
+article.body, footer {
+    margin:0 auto;
+}
+footer {
+    margin-top:18px;
+}
+
+
+nav.main {
+    position:absolute;
+    left:12px;
+    top:80px;
+}
+
+nav.main ul li {
+    display:inline-block;
+    *display:inline;
+    zoom:1;
+    margin:0px 0px;
+}
+nav.main ul li a {
+    display:block;
+    padding:4px 12px;
+    color:#FFF;
+    font-size:1.4em;
+    text-decoration:none;
+}
+nav.main ul li a:hover, nav ul li a.active {
+    color:#a0fb02;
+}
+nav.sub {
+    padding-left:12px;
+}
+nav.sub ul li {
+    display:inline-block;
+    border-top:1px solid #DDD;
+    border-left:1px solid #DDD;
+    border-right:1px solid #CCC;
+    background-color:#FFF;
+    *display:inline;
+    zoom:1;
+}
+nav.sub ul li a {
+    padding:6px 12px;
+    display:block;
+    background:url('../images/interface/main_nav_bg.png') repeat-x #EFEFEF;
+    color:#000;
+}
+nav.sub ul li a:hover, nav.sub ul li a.active {
+    color:#FFF;
+    background-image:none;
+    background-color:#194c6f;
+    border-bottom:none;
+}
+nav.sub ul li a span.notice {
+    color:red;
+}
+nav.sub ul li a:hover span.notice,nav.sub ul li a.active span.notice {
+    color:#ff5151;
+}
+footer {
+    background:url('../images/interface/footer.png') repeat-x top;
+    text-align:center;
+    color:#8ba5b6;
+    padding:24px 24px 12px 24px;
+}
+h1 {
+    width:auto;
+    display:block;
+}
+section.header_body {
+    
+    background-color:#154260;
+    
+}
+section.header_body ul {
+    float:right;
+}
+section.header_body ul li {
+    display:inline-block;
+    vertical-align:middle;
+    padding:0px;
+}
+section.header_body h1 {
+    color:#FFF;
+    vertical-align:center;
+    display:inline-block;
+    line-height:52px;
+    padding:0px 0px 0px  24px ;
+    font-size:16px;
+}
+section.header_body a {
+    border-left:1px solid #195475;
+    border-right:1px solid #08344c;
+    color:#FFF;
+    float:right;
+    display:block;
+    line-height:52px;
+    padding:0px 24px;
+    font-size:14px;
+}
+section.header_body a:hover {
+    background-color:#195474;
+}
+article.body {
+    padding:24px;
+    font-size:1.2em;
+    width:auto;
+    display:block;
+    background-color:#FFF;
+}
+article.body ul li {
+    
+    margin:12px 0px 0px 48px;
+}
+article.body section.content {
+    
+}
+
+table.lookup_table {
+    width:100%;
+    border:1px solid #EFEFEF;
+    margin-bottom:24px;
+}
+table.lookup_table th {
+    font-weight:bold;
+    background-color:#EFEFEF;
+    padding:4px 6px;
+}
+table.lookup_table td {
+    padding:12px;
+}

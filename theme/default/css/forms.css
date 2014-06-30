@@ -1,0 +1,131 @@
+/* FORMS  BASED off 972px width of page content */
+.form_2column {
+    overflow:hidden;
+    list-style:none;
+    margin-bottom:24px;
+}
+.form_1column {
+    margin-bottom:24px;
+    list-style:none;
+}
+.form_1column li {
+    width:100%;
+    margin-left:16px;
+}
+.form_2column li {
+    margin-left:16px;
+    width:480px;
+    clear:none;
+    display:inline-block;
+    *display:inline;
+    zoom:1;
+    float:left;
+    vertical-align:top;
+}
+.form_2column li div.validation_error {
+    width:88%;
+    
+}
+.form_2column li.left {
+    margin-left:0px !important;
+}
+.form_2column li h4 {
+    color:#0089b3;
+    border-bottom:1px dotted #DDD;
+    padding:4px 0 12px 0;
+    margin-bottom:12px;
+}
+div.search .form_2column, div.summary .form_2column {
+    padding-top:8px;
+}
+div.search .form_2column li, div.summary .form_2column li {
+    width:440px;
+}
+div.hidden .form_2column {
+    display:none;
+}
+div.summary .form_2column label {
+    font-weight:bold;
+    font-size:1.2em;
+}
+div.summary .form_2column span.data {
+    background-color:#FFF;
+    border:1px dotted #333 !important;
+    font-size:1.1em;
+}
+form div.frow {
+    margin:0px 0px 6px 0px;
+    vertical-align:top;
+}
+form div.frow div.fwrap {
+    vertical-align:top;
+    width:48%;
+    display:inline-block;
+    *display:inline;
+    zoom:1;
+}
+form div.wide div.fwrap {
+    width:100%;
+}
+form div.frow div.fwrap label {
+    display:block;
+    padding:4px 4px;
+}
+form div.frow div.fwrap label span.note {
+    font-size:11px;
+}
+form div.frow div.fwrap span.data {
+    display:block;
+}
+form div.frow div.fwrap input, form div.frow div.fwrap select, form div.frow div.fwrap textarea,form div.frow div.fwrap span.data {
+    width:88%;
+    padding:6px;
+    font-size:12px;
+    border:1px solid #CCC;
+}
+form div.frow div.fwrap textarea {
+    width:91%;
+}
+form div.frow div.fwrap input:focus, form div.frow div.fwrap select:focus, form div.frow div.fwrap textarea:focus {
+    border:1px solid #c0cfd8;
+    background-color:#ecf2f6;
+}
+form div.wide div.fwrap input, form div.wide div.fwrap select {
+    width:91%;
+}
+form div.frow div.single input ,form div.frow div.single select {
+    clear:auto !important;
+    width:auto !important;
+    margin-right:6px;
+}
+form div.fbtnrow {
+    width:100%;
+    text-align:center;
+    padding:12px 0 0 0;
+    clear:both;
+}
+
+form div.fbtnrow input {
+    font-size:1.1em;
+    padding:4px 12px;
+}
+form div.fbtnrow span.note {
+    font-size:11px;
+}
+/* FORM ERROR STYLES */
+
+form div.frow div.fwrap label.error {
+    display:inline-block;
+    *display:inline;
+    zoom:1;
+}
+form div.frow div.fwrap input.error, form div.frow div.fwrap select.error, form div.frow div.fwrap textarea.error {
+    background:url(/images/forms/error.png) right 5px  no-repeat #f7eeee;
+    border:1px solid #dcc2c2;
+}
+form div.frow div.fwrap input.valid, form div.frow div.fwrap select.valid, form div.frow div.fwrap textarea.valid {
+    background:url(/images/forms/valid.png) right 5px  no-repeat #f3f7ec;
+    border:1px solid #83ca13;
+
+}
+/* END FORMS */
